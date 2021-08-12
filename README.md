@@ -2,4 +2,4 @@
 
 # Languages
 
-The todo list was created using HTML, CSS, and Javascript. 
+The todo list was created using HTML, CSS, and Javascript.
